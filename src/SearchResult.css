@@ -87,5 +87,24 @@
     .searchResult_info{
         padding-left: 0px;
     }
+    .searchResult_info_top{
+        width: unset;
+    }
+    .searchResult_info_top>p:nth-child(2){
+        padding-bottom: 5px;
+    }
+    .searchResult_info_top>p:nth-child(4){
+        padding-bottom: 5px;
+    }
+    .searchResult_info_bottom{
+        padding-top: 15px;
+    }
+    .MuiSvgIcon-root.searchResult_star{
+        font-size: unset;
+    }
+    .searchResult_hor_seperator{
+        display: none;
+    }
+
 }
 

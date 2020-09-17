@@ -12,7 +12,8 @@ function SearchResult({price,title,img,description,location,star,total}) {
             <div className="searchResult_info_top">
                 <p>{location}</p>
                 <p>{title}</p>
-                <p>______</p>
+                <p className="searchResult_hor_seperator">______</p>
+
                 <p>{description}</p>
             </div>
             <div className="searchResult_info_bottom">
