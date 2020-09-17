@@ -7,9 +7,9 @@
 
 .header_left{
     display: flex;
-    flex:  0.3;
+    flex:  1;
 }
-.header_left>img{
+img{
     width: 170px;
     height: 60px;
     object-fit: contain;
@@ -20,7 +20,7 @@
     align-items: center;
     justify-content: center;
     padding-left: 200px;
-    flex: 0.5;
+    flex: 1;
 }
 .header_center>.header_links{
     padding-left: 30px;
@@ -33,10 +33,10 @@
 }
 .header_right{
     display: flex;
-    flex: 0.5;
+    flex: 1;
     padding-left: 100px;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
 }
 
 .header_right_host{
@@ -81,14 +81,11 @@
     margin-left: 10px;
 }
 
-@media(max-width:1910px){
-    .header_center{
-        padding-left: 10px;
+ @media(max-width:1762px){
+    .header_links{
+        padding: 0px;
     }
-    .header_right{
-        padding-left: 0px;
-    }
-}
+} 
 @media(max-width:1910px){
     .header_center{
         padding-left: 0px;

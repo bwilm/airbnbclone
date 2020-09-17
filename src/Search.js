@@ -30,11 +30,11 @@ function Search() {
                 </div>
                 <div className="search_column">
                     <small>Check in</small>
-                    <input type="text" placeholder="Add dates" onClick={ () =>{setShowSearch(!showSearch)}} />
+                    <input type="text" placeholder="Add dates" onClick={ () =>{setShowSearch(!showSearch)}} value={startDate.toDateString()}/>
                 </div>
                 <div className="search_column">
                     <small>Check out</small>
-                    <input type="text" placeholder="Add dates" onClick={ () =>{setShowSearch(!showSearch)}}/>
+                    <input type="text" placeholder="Add dates" onClick={ () =>{setShowSearch(!showSearch)}} value={endDate.toDateString()}/>
                 </div>
                 <div className="search_column">
                     <small>Guests</small>

@@ -52,6 +52,8 @@ function Footer() {
                 <small>Cancellation Options</small>
                 <small>Neighborhood Support</small>
                 <small>Trust & Safety</small>
+                <small>Created By:</small>
+                <small> <a href={`mailto: bwilmott.dev@gmail.com`}>bwilmott.dev@gmail.com</a></small>
             </div>
             </div>
             <div className="footer_sub_text">
@@ -65,13 +67,13 @@ function Footer() {
                     <p>Terms</p>
                     <span>&#183;</span>
                     <p>Sitemap</p>
+                    <span>&#183;</span>
                     </div>
-
                 </div>
                 <div className="footer_sub_column">
                     <div className="footer_sub_row center">
-                    <WorldIcon /> <span style={{fontSize:"14px", borderBottom:"2px solid black",fontWeight:"500"}}>English(US)</span>
-                    <MoneyIcon /> <span style={{borderBottom:"2px solid black",fontWeight:"500"}}>USD</span>
+                    <WorldIcon style={{width:"15px", paddingRight:"15px"}}/> <span style={{fontSize:"14px", borderBottom:"2px solid black",fontWeight:"500"}}>English(US)</span>
+                    <MoneyIcon style={{width:"15px"}} /> <span style={{borderBottom:"2px solid black",fontWeight:"500"}}>USD</span>
                     </div>
 
                 </div>
