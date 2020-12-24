@@ -6,30 +6,20 @@ import WorldIcon from '@material-ui/icons/Public'
 import ExpandMore from '@material-ui/icons/ExpandMore';
 import MenuIcon from '@material-ui/icons/Menu';
 
+
+
 function Header() {
     return (
         <div className="header">
             <div className="header_left">
-                <img src="https://i.ibb.co/qFtt5ZJ/5f60bb531c9e3.png" alt=""/>
+                <img src="https://i.ibb.co/488xSR1/shoelogo.png" alt=""/>
             </div>
             <div className="header_center">
-                <p className="header_links">Places To Stay</p>
-                <p className="header_links">Experiences</p>
-                <p className="header_links">Online Experiences</p>
+                <p className="header_links title">VA LACED</p>
+                <p className="header_links">New Releases</p>
+                <p className="header_links">On Sale</p>
+                <p className="header_links">About</p>
 
-            </div>
-            <div className="header_right">
-                <div className="header_right_host">
-                <p>Become a host</p>
-                </div>
-                <div className="header_right_lang">
-                <WorldIcon />
-                <ExpandMore/>
-                </div>
-                <div className="header_right_user">
-                    <MenuIcon/>
-                    <Avatar />
-                </div>
             </div>
         </div>
     )

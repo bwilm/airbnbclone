@@ -11,7 +11,6 @@ function App() {
     <div className="app">
       <div className="app_body">
       <Header />
-      <Search/>
       <Body /> 
       <Footer />
       <MobileFooter />

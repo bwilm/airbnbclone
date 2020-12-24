@@ -2,14 +2,12 @@
 import firebase from 'firebase';
 
 var firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyCkLFjB43e0tL3lpM8nYzyGA4NW9GWmwoA",
-    authDomain: "airbnb-clone-2bf5e.firebaseapp.com",
-    databaseURL: "https://airbnb-clone-2bf5e.firebaseio.com",
-    projectId: "airbnb-clone-2bf5e",
-    storageBucket: "airbnb-clone-2bf5e.appspot.com",
-    messagingSenderId: "226899074243",
-    appId: "1:226899074243:web:75c0f60f8bbda0dfec9676",
-    measurementId: "G-54QHGNNP7K"
+  apiKey: "AIzaSyDGsorXtgvm8L4TzUt6TyUH-gTBZvdNUTU",
+  authDomain: "valaced-5f40d.firebaseapp.com",
+  projectId: "valaced-5f40d",
+  storageBucket: "valaced-5f40d.appspot.com",
+  messagingSenderId: "422059749108",
+  appId: "1:422059749108:web:f6de1b6823218cde6ef8a1"
   });
 
 const db = firebaseApp.firestore();

@@ -3,9 +3,11 @@
 }
 
 .app{
-  background-image: url(https://a0.muscache.com/im/pictures/48738093-5bae-4223-9cab-aa1be937305f.jpg);
+  background-image: url(https://i.ibb.co/10yyPfG/jordans.jpg);
   background-size:cover;
-  background-position: center center;
+  background-position: bottom center;
   height: 100vh;
   margin:0;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }

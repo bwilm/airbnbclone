@@ -12,13 +12,7 @@ function Footer() {
             <div className="footer_row">
             <div className="footer_column">
                 <h5 className="footer_column_header">ABOUT</h5>
-                <small>How Airbnb works</small>
-                <small>Newsroom</small>
-                <small>Airbnb Plus</small>
-                <small>Airbnb Luxe</small>
-                <small>HotelTonight</small>
-                <small>Airnbn for Work</small>
-                <small>Olympics</small>
+                <small>News</small>
                 <small>Careers</small>
             </div>
             <hr/>
@@ -27,29 +21,14 @@ function Footer() {
                 <small>Diversity & Belonging</small>
                 <small>Against Discrimination</small>
                 <small>Accesibility</small>
-                <small>Airbnb Associates</small>
-                <small>Frontline Stays</small>
                 <small>Invite Friends</small>
                 <small>Gift Cards</small>
-            </div>
-            <hr/>
-            <div className="footer_column">
-                <h5 className="footer_column_header">HOST</h5>
-                <small>Host your home</small>
-                <small>Host an Online Experience</small>
-                <small>Host an Experience</small>
-                <small>Message ffrom CEO Brian Chesky</small>
-                <small>Responsible Hosting</small>
-                <small>Open Homes</small>
-                <small>Resource Center</small>
-                <small>Community Center</small>
             </div>
             <hr/>
             <div className="footer_column">
             <h5 className="footer_column_header">SUPPORT</h5>
                 <small>Updates for COVID-19</small>
                 <small>Help Center</small>
-                <small>Cancellation Options</small>
                 <small>Neighborhood Support</small>
                 <small>Trust & Safety</small>
             </div>
@@ -58,7 +37,7 @@ function Footer() {
                 <div className="footer_sub_column">
                     <div className="footer_sub_row">
                     <span>&#169;</span>
-                    <p>2020 Airbnb, Inc. All rights Reserved</p>
+                    <p>2020 VALACED, Inc. All rights Reserved</p>
                     <span>&#183;</span>
                     <p>Privacy</p>
                     <span>&#183;</span>

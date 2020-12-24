@@ -6,9 +6,9 @@ function Body() {
         <div className="body">
             <div className="body_text_container">
             <div className="body_mainText">
-                <h1>Go Near</h1> 
-                <p>Explore unique destinations near you.</p>
-                <button><small>Explore nearby</small></button>
+                <h2>VA LACED</h2>
+                <h1>Custom Designs</h1> 
+                <button><small>Explore Now</small></button>
             </div>
             </div>
 
@@ -16,14 +16,14 @@ function Body() {
                 <div className="body_cards_column">
                     <div className="body_card">
                         <div className="body_card_image">
-                            <img src="https://a0.muscache.com/im/pictures/15159c9c-9cf1-400e-b809-4e13f286fa38.jpg" alt=""/>
+                            <img src="https://i.ibb.co/z4Bq20p/cmx-BVwu-air-jordans-wallpaper.jpg" alt=""/>
                         </div>
                         <div className="body_card_text">
                             <div className="body_card_title">
-                            <p>Unique Stays</p><br/>
+                            <p>Air Jordan VI </p><br/>
                             </div>
                             <div className="body_card_description">
-                            <br/><span>Spaces that are more than just a place to sleep.</span>
+                            <br/><span>$999.99</span>
                             </div>
                         </div>
                     </div>
@@ -31,14 +31,14 @@ function Body() {
                 <div className="body_cards_column">
                     <div className="body_card">
                         <div className="body_card_image">
-                            <img src="https://a0.muscache.com/im/pictures/eb9c7c6a-ee33-414a-b1ba-14e8860d59b3.jpg?im_w=720" alt=""/>
+                            <img src="https://i.ibb.co/4TrPp6V/x5RaSM7.jpg" alt=""/>
                         </div>
                         <div className="body_card_text">
                             <div className="body_card_title">
-                            <p>Online Experiences</p> <br/>
+                            <p>Air Jordan IV</p> <br/>
                             </div>
                             <div className="body_card_description">
-                            <br/><span>Unique Activities we can do together, led by a world of hosts.</span>
+                            <br/><span>$999.99</span>
                             </div>
             
                         </div>
@@ -47,14 +47,14 @@ function Body() {
                 <div className="body_cards_column">
                     <div className="body_card">
                         <div className="body_card_image">
-                            <img src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720" alt=""/>
+                            <img src="https://i.ibb.co/1X7JpcL/Wshl7HG.jpg" alt=""/>
                         </div>
                         <div className="body_card_text">
                             <div className="body_card_title">
-                            <p>Entire Homes</p> <br/>
+                            <p>Air Jordan I</p> <br/>
                             </div>
                             <div className="body_card_description">
-                            <br/><span>Spaces that are more than just a place to sleep.</span>
+                            <br/><span>$999.99</span>
                             </div>
             
                         </div>
